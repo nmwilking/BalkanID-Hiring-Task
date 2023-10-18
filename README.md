@@ -14,3 +14,8 @@ Concepts to consider for citaiton weighting of B's citation of A:
 - How dissimilar B's abstract was to A (value of replication studies?)
 - Different disciplines are indicative of greater impact
 - Common author penalty
+
+## UnarXiv
+
+External data necessary after density estimation
+https://zenodo.org/records/7752615
