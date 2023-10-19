@@ -19,3 +19,5 @@ Concepts to consider for citaiton weighting of B's citation of A:
 
 External data necessary after density estimation
 https://zenodo.org/records/7752615
+
+reqs: nx, arxiv
