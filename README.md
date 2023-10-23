@@ -101,10 +101,10 @@ Note: This section is time-intensive. While data and GitHub ordinarily don't mix
 
 Every part of my implementation is deterministic, so provided you are using the March 27, 2023 unarXive release, your output should match mine. These are the five most impactful papers in the provided dataset according to my analysis:
 
-|      id |   impact |   impact_pct | title                                                                    |
-|--------:|---------:|-------------:|:-------------------------------------------------------------------------|
-| 2004.04 | 254.595  |     100      | Compiling Spiking Neural Networks to Neuromorphic Hardware               |
-| 2005.05 | 161.004  |      63.2392 | Exploiting Inter- and Intra-Memory Asymmetries for Data Mapping in Hybrid Tiered-Memories |
-| 2005.05 | 129.269  |      50.7745 | Improving Phase Change Memory Performance with Data Content Aware Access |
-| 2007.02 | 129.174  |      50.7371 | A Case for Lifetime Reliability-Aware Neuromorphic Computing             |
-| 2009.13 |  89.6637 |      35.2182 | Reliability-Performance Trade-offs in Neuromorphic Computing             |
+|      id |           impact |   impact_pct | title                                                                   |
+|--------:|-----------------:|-------------:|:------------------------------------------------------------------------|
+| 1806.00425    |      4774820 |    100       | Observation of Higgs boson production in association with a top quark pair at the LHC with the ATLAS detector                               |
+| 1807.02512 | 525980           |     11.0157  | Transversal Modes and Higgs Bosons in Electroweak Vector-Boson Scattering at the LHC                                                 |
+| 1808.04403 | 302137           |      6.32772 | CoDEx: Wilson coefficient calculator connecting SMEFT to UV theory      |
+| 2012.02779 | 301875           |      6.32222 | Top, Higgs, Diboson and Electroweak Fit to the Standard Model Effective Field Theory                                                          |
+| 1809.03520 | 201364           |      4.2172  | Probing top-quark couplings indirectly at Higgs factories               |
